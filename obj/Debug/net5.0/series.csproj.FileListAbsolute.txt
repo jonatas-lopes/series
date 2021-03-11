@@ -1,0 +1,16 @@
+C:\Users\Administrador.WIN-UEDVV2JCC7U\source\repos\series\bin\Debug\net5.0\series.exe
+C:\Users\Administrador.WIN-UEDVV2JCC7U\source\repos\series\bin\Debug\net5.0\series.deps.json
+C:\Users\Administrador.WIN-UEDVV2JCC7U\source\repos\series\bin\Debug\net5.0\series.runtimeconfig.json
+C:\Users\Administrador.WIN-UEDVV2JCC7U\source\repos\series\bin\Debug\net5.0\series.runtimeconfig.dev.json
+C:\Users\Administrador.WIN-UEDVV2JCC7U\source\repos\series\bin\Debug\net5.0\series.dll
+C:\Users\Administrador.WIN-UEDVV2JCC7U\source\repos\series\bin\Debug\net5.0\ref\series.dll
+C:\Users\Administrador.WIN-UEDVV2JCC7U\source\repos\series\bin\Debug\net5.0\series.pdb
+C:\Users\Administrador.WIN-UEDVV2JCC7U\source\repos\series\obj\Debug\net5.0\series.csprojAssemblyReference.cache
+C:\Users\Administrador.WIN-UEDVV2JCC7U\source\repos\series\obj\Debug\net5.0\series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador.WIN-UEDVV2JCC7U\source\repos\series\obj\Debug\net5.0\series.AssemblyInfoInputs.cache
+C:\Users\Administrador.WIN-UEDVV2JCC7U\source\repos\series\obj\Debug\net5.0\series.AssemblyInfo.cs
+C:\Users\Administrador.WIN-UEDVV2JCC7U\source\repos\series\obj\Debug\net5.0\series.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.WIN-UEDVV2JCC7U\source\repos\series\obj\Debug\net5.0\series.dll
+C:\Users\Administrador.WIN-UEDVV2JCC7U\source\repos\series\obj\Debug\net5.0\ref\series.dll
+C:\Users\Administrador.WIN-UEDVV2JCC7U\source\repos\series\obj\Debug\net5.0\series.pdb
+C:\Users\Administrador.WIN-UEDVV2JCC7U\source\repos\series\obj\Debug\net5.0\series.genruntimeconfig.cache
